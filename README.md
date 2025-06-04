@@ -7,4 +7,4 @@ In game characters have evolving personalities, memory, emotions, and relationsh
 
 ## 🧭 Documentation
 
-Check out the [📖 Open Tomo Wiki](https://github.com/AlanDoesCS/open-tomo/wiki) for more information on the design and organisation of Open-Tomo
+Check out the [📖 Open Tomo Wiki](https://github.com/AlanDoesCS/open-tomo/wiki) for more information on the design and organisation of Open-Tomo.
